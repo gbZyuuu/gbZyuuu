@@ -53,14 +53,6 @@ the conversation you were in. Windows.
 
 `JavaScript` · `Electron` · `Node.js` · free to use
 
-Other work lives in private repositories.
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gbZyuuu&theme=github_dark" alt="Profile summary" width="100%" />
-
-</div>
-
 ---
 
 <details>
@@ -100,8 +92,7 @@ na conversa onde você estava. Windows.
 
 `JavaScript` · `Electron` · `Node.js` · livre para usar
 
-A imagem acima é clicável e leva ao repositório. O resto do meu trabalho fica em
-repositórios privados.
+A imagem acima é clicável e leva ao repositório.
 
 </details>
 
