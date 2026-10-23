@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">gbZyuu — Windows tools and automation</title>
+<desc id="desc">A dark graphite banner with violet and mint accents and overlapping application windows.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#14151F"/><stop offset="1" stop-color="#202136"/></linearGradient>
+  <linearGradient id="accent" x1="48" y1="0" x2="952" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#B8A2FF"/><stop offset="1" stop-color="#8BE5CE"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="998" height="278" rx="22" fill="url(#bg)" stroke="#38394F"/>
+<rect x="48" y="43" width="34" height="4" rx="2" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <text x="48" y="122" fill="#F7F7FC" font-size="64" font-weight="700" letter-spacing="-2">gbZyuu<tspan fill="#B8A2FF">.</tspan></text>
+  <text x="50" y="164" fill="#D0CFDF" font-size="24">Windows tools. Thoughtful automation.</text>
+  <text x="50" y="226" fill="#A5A4BC" font-size="15" letter-spacing="2">BUILD · MEASURE · REFINE</text>
+</g>
+<path d="M672 36V244M718 36V244M764 36V244M810 36V244M856 36V244M902 36V244M948 36V244M652 62H966M652 108H966M652 154H966M652 200H966" stroke="#A99DD0" stroke-opacity=".06"/>
+<rect x="748" y="48" width="202" height="148" rx="14" fill="#242638" stroke="#53516E"/>
+<path d="M748 80H950" stroke="#53516E"/>
+<circle cx="764" cy="64" r="3" fill="#B8A2FF"/><circle cx="777" cy="64" r="3" fill="#73718B"/><circle cx="790" cy="64" r="3" fill="#73718B"/>
+<rect x="698" y="99" width="212" height="139" rx="14" fill="#191B29" stroke="#8B7DC2"/>
+<path d="M698 132H910" stroke="#454057"/>
+<rect x="714" y="112" width="60" height="6" rx="3" fill="#B8A2FF"/>
+<circle cx="890" cy="116" r="4" fill="#8BE5CE"/>
+<rect x="715" y="151" width="31" height="31" rx="8" fill="#B8A2FF" fill-opacity=".16"/>
+<path d="M725 160H736V172H725Z M729 156H740V168" stroke="#C7B7FF" stroke-width="2" stroke-linejoin="round"/>
+<rect x="758" y="156" width="97" height="6" rx="3" fill="#C8C8D8"/>
+<rect x="758" y="170" width="64" height="5" rx="2.5" fill="#6C6D83"/>
+<rect x="715" y="198" width="178" height="22" rx="6" fill="#25283A"/>
+<rect x="723" y="206" width="72" height="6" rx="3" fill="#8BE5CE"/>
+<path d="M868 209H882M878 205L882 209L878 213" stroke="#B8A2FF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
